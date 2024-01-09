@@ -1,0 +1,42 @@
+.output-text{
+  border: 2px solid black;
+  width: 30vw;
+  height: 60vh;
+  background-color: black;
+  border-radius: 10px;
+  color: white;
+  text-align: left;
+  box-shadow:10px 10px 20px black ;
+}
+.output{
+  padding-left: 10vw;
+}
+body{
+  background-color: blue;
+}
+.pro{
+  text-align: left;
+  color: white;
+  position: relative;
+  top: 10px;
+
+
+}
+.container{
+  display: flex;
+}
+.in{
+  text-align: left;
+  color: white;
+  position: relative;
+  top: 10px;
+
+}
+.Input-text{
+  background: none;
+  border: 2px solid black;
+  height:55vh;
+  width: 40vw;
+  padding: auto;
+  color: white;
+}
