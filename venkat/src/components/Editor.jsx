@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import"./Edi.css"
 
 export default class Editor extends Component {
     constructor(props){
